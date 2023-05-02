@@ -26,4 +26,3 @@
 - Task 19: Write a query to extract ticket purchase date, customer ID, class ID and specify if the complimentary services are provided for the specific class on the ticket_details table. If the class is Business and Economy Plus, then complimentary services are given as Yes, else it is No
 - Task: 20: Write a query to extract the first record of the customer whose last name ends with Scott using a cursor from the customer table.
 
-To download the datasets click here
